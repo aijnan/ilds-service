@@ -1,0 +1,27 @@
+server:
+  port: 7000
+spring:
+  application:
+    name: ilds-gateway
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 127.0.0.1:8848 # nacos地址
+    gateway:
+      routes: # 路由数组[路由 就是指定当请求满足什么条件的时候转到哪个微服务]
+        - id: base-service-route # 当前路由的标识, 要求唯一
+          uri: lb://idls-base-service # 请求要转发到的地址
+          predicates: # 断言(就是路由转发要满足的条件)
+            - Path=/base/** # 当请求路径满足Path指定的规则时,才进行路由转发
+        - id: sale-service-route
+          uri: lb://ilds-sale-service
+          predicates:
+            - Path=/sale/**
+        - id: system-service-route
+          uri: lb://ilds-system-service
+          predicates:
+            - Path=/system/**
+        - id: vehicle-service-route
+          uri: lb://ilds-vehicle-service
+          predicates:
+            - Path=/vehicle/**
