@@ -1,7 +1,7 @@
-package com.example.sale.controller;
+package com.example.ilds.sale.controller;
 
-import com.example.sale.model.Sale;
-import com.example.sale.service.SaleService;
+import com.example.ilds.sale.model.Sale;
+import com.example.ilds.sale.service.SaleService;
 import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.web.bind.annotation.*;
 

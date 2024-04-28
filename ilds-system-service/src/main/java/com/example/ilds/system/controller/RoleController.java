@@ -1,6 +1,6 @@
-package com.example.wms.system.controller;
+package com.example.ilds.system.controller;
 
-import com.example.wms.system.model.enums.Role;
+import com.example.ilds.system.model.enums.Role;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

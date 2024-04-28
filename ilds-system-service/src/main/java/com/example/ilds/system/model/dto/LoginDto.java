@@ -1,4 +1,4 @@
-package com.example.wms.system.model.dto;
+package com.example.ilds.system.model.dto;
 
 import lombok.Data;
 

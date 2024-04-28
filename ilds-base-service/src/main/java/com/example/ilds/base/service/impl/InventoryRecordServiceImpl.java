@@ -1,17 +1,17 @@
-package com.example.wms.base.service.impl;
+package com.example.ilds.base.service.impl;
 
-import com.example.wms.base.model.entity.Commodity;
-import com.example.wms.base.model.entity.Inventory;
-import com.example.wms.base.model.entity.InventoryRecord;
-import com.example.wms.base.model.vo.CommodityChartVo;
-import com.example.wms.base.repository.CommodityRepository;
-import com.example.wms.base.repository.InventoryRecordRepository;
-import com.example.wms.base.repository.InventoryRepository;
-import com.example.wms.base.service.InventoryRecordService;
+import com.example.ilds.base.model.vo.CommodityChartVo;
+import com.example.ilds.base.repository.InventoryRecordRepository;
+import com.example.ilds.base.repository.InventoryRepository;
+import com.example.ilds.base.model.entity.Commodity;
+import com.example.ilds.base.model.entity.Inventory;
+import com.example.ilds.base.model.entity.InventoryRecord;
+import com.example.ilds.base.repository.CommodityRepository;
+import com.example.ilds.base.service.InventoryRecordService;
 import com.example.common.util.DataTimeUtil;
-import com.example.wms.api.vehicle.dto.DistributionDTO;
-import com.example.wms.api.vehicle.feign.DistributionFeignClient;
-import com.example.wms.api.vehicle.vo.VehicleVO;
+import com.example.ilds.api.vehicle.dto.DistributionDTO;
+import com.example.ilds.api.vehicle.feign.DistributionFeignClient;
+import com.example.ilds.api.vehicle.vo.VehicleVO;
 import org.springframework.stereotype.Service;
 
 import javax.annotation.Resource;

@@ -1,7 +1,7 @@
-package com.example.wms.base.service;
+package com.example.ilds.base.service;
 
-import com.example.wms.base.model.entity.InventoryRecord;
-import com.example.wms.base.model.vo.CommodityChartVo;
+import com.example.ilds.base.model.vo.CommodityChartVo;
+import com.example.ilds.base.model.entity.InventoryRecord;
 
 import java.util.List;
 

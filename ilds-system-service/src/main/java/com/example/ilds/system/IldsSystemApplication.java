@@ -1,11 +1,11 @@
-package com.example.wms.system;
+package com.example.ilds.system;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class WmsSystemApplication {
+public class IldsSystemApplication {
     public static void main(String[] args) {
-        SpringApplication.run(WmsSystemApplication.class, args);
+        SpringApplication.run(IldsSystemApplication.class, args);
     }
 }

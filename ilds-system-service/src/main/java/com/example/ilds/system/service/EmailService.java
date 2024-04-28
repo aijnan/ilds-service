@@ -1,4 +1,4 @@
-package com.example.wms.system.service;
+package com.example.ilds.system.service;
 
 import org.springframework.mail.MailException;
 

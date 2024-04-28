@@ -1,13 +1,13 @@
-package com.example.wms.system.controller;
+package com.example.ilds.system.controller;
 
 import com.example.common.model.support.ResponseResult;
-import com.example.wms.system.model.dto.LoginDto;
-import com.example.wms.system.model.entity.Admin;
-import com.example.wms.system.model.enums.Role;
-import com.example.wms.system.repository.AdminRepository;
-import com.example.wms.system.service.AdminService;
-import com.example.wms.system.service.LoginLogService;
-import com.example.wms.system.util.JwtTokenUtil;
+import com.example.ilds.system.model.dto.LoginDto;
+import com.example.ilds.system.model.enums.Role;
+import com.example.ilds.system.repository.AdminRepository;
+import com.example.ilds.system.service.LoginLogService;
+import com.example.ilds.system.util.JwtTokenUtil;
+import com.example.ilds.system.model.entity.Admin;
+import com.example.ilds.system.service.AdminService;
 import lombok.extern.slf4j.Slf4j;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

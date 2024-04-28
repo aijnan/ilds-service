@@ -1,4 +1,4 @@
-package com.example.wms.system.model.entity;
+package com.example.ilds.system.model.entity;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;

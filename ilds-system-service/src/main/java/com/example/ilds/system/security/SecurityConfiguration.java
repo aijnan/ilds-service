@@ -1,4 +1,4 @@
-package com.example.wms.system.security;
+package com.example.ilds.system.security;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

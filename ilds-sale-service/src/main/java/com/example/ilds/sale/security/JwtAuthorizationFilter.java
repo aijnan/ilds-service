@@ -1,4 +1,4 @@
-package com.example.sale.security;
+package com.example.ilds.sale.security;
 
 import com.example.common.model.support.ResponseResult;
 import com.example.common.util.JwtTokenUtil;

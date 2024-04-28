@@ -1,9 +1,9 @@
-package com.example.wms.base.feign;
+package com.example.ilds.base.feign;
 
-import com.example.wms.base.model.entity.Warehouse;
-import com.example.wms.base.service.WarehouseService;
-import com.example.wms.api.base.feign.WarehouseFeignClient;
-import com.example.wms.api.base.vo.WarehouseVO;
+import com.example.ilds.base.model.entity.Warehouse;
+import com.example.ilds.base.service.WarehouseService;
+import com.example.ilds.api.base.feign.WarehouseFeignClient;
+import com.example.ilds.api.base.vo.WarehouseVO;
 import com.example.common.util.BeanUtil;
 import lombok.RequiredArgsConstructor;
 

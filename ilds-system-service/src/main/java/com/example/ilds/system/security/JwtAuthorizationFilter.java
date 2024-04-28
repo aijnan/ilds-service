@@ -1,8 +1,8 @@
-package com.example.wms.system.security;
+package com.example.ilds.system.security;
 
 import com.example.common.model.support.ResponseResult;
-import com.example.wms.system.util.JwtTokenUtil;
-import com.example.wms.system.util.ResponseUtil;
+import com.example.ilds.system.util.JwtTokenUtil;
+import com.example.ilds.system.util.ResponseUtil;
 import org.springframework.security.authentication.AuthenticationManager;
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;

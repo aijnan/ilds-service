@@ -1,4 +1,4 @@
-package com.example.wms.system.util;
+package com.example.ilds.system.util;
 
 import javax.servlet.http.HttpServletRequest;
 

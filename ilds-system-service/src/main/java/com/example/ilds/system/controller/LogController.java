@@ -1,10 +1,10 @@
-package com.example.wms.system.controller;
+package com.example.ilds.system.controller;
 
-import com.example.wms.system.model.entity.LoginLog;
-import com.example.wms.system.model.entity.SystemLog;
-import com.example.wms.system.model.vo.SystemLogVo;
-import com.example.wms.system.service.LoginLogService;
-import com.example.wms.system.service.SystemLogService;
+import com.example.ilds.system.model.entity.LoginLog;
+import com.example.ilds.system.service.LoginLogService;
+import com.example.ilds.system.service.SystemLogService;
+import com.example.ilds.system.model.entity.SystemLog;
+import com.example.ilds.system.model.vo.SystemLogVo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;

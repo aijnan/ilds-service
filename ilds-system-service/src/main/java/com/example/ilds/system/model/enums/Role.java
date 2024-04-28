@@ -1,4 +1,4 @@
-package com.example.wms.system.model.enums;
+package com.example.ilds.system.model.enums;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import lombok.Getter;

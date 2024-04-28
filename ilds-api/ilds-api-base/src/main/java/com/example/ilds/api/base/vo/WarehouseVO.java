@@ -1,4 +1,4 @@
-package com.example.wms.api.base.vo;
+package com.example.ilds.api.base.vo;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;

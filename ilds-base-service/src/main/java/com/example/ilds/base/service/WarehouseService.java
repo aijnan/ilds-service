@@ -1,6 +1,6 @@
-package com.example.wms.base.service;
+package com.example.ilds.base.service;
 
-import com.example.wms.base.model.entity.Warehouse;
+import com.example.ilds.base.model.entity.Warehouse;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package com.example.wms.api.vehicle.dto;
+package com.example.ilds.api.vehicle.dto;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import lombok.Data;

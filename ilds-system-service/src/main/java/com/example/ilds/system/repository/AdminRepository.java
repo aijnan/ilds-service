@@ -1,6 +1,6 @@
-package com.example.wms.system.repository;
+package com.example.ilds.system.repository;
 
-import com.example.wms.system.model.entity.Admin;
+import com.example.ilds.system.model.entity.Admin;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

@@ -1,6 +1,6 @@
-package com.example.wms.system.controller;
+package com.example.ilds.system.controller;
 
-import com.example.wms.system.util.RandomUtil;
+import com.example.ilds.system.util.RandomUtil;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.mail.MailException;
 import org.springframework.mail.SimpleMailMessage;

@@ -1,9 +1,9 @@
-package com.example.sale.service.impl;
+package com.example.ilds.sale.service.impl;
 
 import com.example.common.util.DataTimeUtil;
-import com.example.sale.model.Sale;
-import com.example.sale.repository.SaleRepository;
-import com.example.sale.service.SaleService;
+import com.example.ilds.sale.model.Sale;
+import com.example.ilds.sale.repository.SaleRepository;
+import com.example.ilds.sale.service.SaleService;
 import org.springframework.stereotype.Service;
 
 import javax.annotation.Resource;

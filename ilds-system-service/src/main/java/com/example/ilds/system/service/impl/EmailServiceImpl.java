@@ -1,8 +1,8 @@
-package com.example.wms.system.service.impl;
+package com.example.ilds.system.service.impl;
 
-import com.example.wms.system.model.entity.Code;
-import com.example.wms.system.repository.CodeRepository;
-import com.example.wms.system.service.EmailService;
+import com.example.ilds.system.model.entity.Code;
+import com.example.ilds.system.repository.CodeRepository;
+import com.example.ilds.system.service.EmailService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.mail.MailException;

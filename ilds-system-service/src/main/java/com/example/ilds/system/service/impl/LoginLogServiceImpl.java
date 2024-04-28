@@ -1,12 +1,12 @@
-package com.example.wms.system.service.impl;
+package com.example.ilds.system.service.impl;
 
-import com.example.wms.system.model.dto.LoginDto;
-import com.example.wms.system.model.entity.Admin;
-import com.example.wms.system.model.entity.LoginLog;
-import com.example.wms.system.repository.LoginLogRepository;
-import com.example.wms.system.service.LoginLogService;
-import com.example.wms.system.util.BrowserUtil;
-import com.example.wms.system.util.IpUtil;
+import com.example.ilds.system.model.dto.LoginDto;
+import com.example.ilds.system.model.entity.Admin;
+import com.example.ilds.system.model.entity.LoginLog;
+import com.example.ilds.system.repository.LoginLogRepository;
+import com.example.ilds.system.service.LoginLogService;
+import com.example.ilds.system.util.BrowserUtil;
+import com.example.ilds.system.util.IpUtil;
 import org.springframework.stereotype.Service;
 
 import javax.annotation.Resource;

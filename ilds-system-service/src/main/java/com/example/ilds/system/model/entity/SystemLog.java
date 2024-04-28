@@ -1,4 +1,4 @@
-package com.example.wms.system.model.entity;
+package com.example.ilds.system.model.entity;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import lombok.Data;

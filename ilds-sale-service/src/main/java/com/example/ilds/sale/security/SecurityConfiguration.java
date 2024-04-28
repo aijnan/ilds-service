@@ -1,4 +1,4 @@
-package com.example.sale.security;
+package com.example.ilds.sale.security;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

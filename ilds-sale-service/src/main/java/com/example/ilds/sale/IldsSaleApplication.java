@@ -1,11 +1,11 @@
-package com.example.sale;
+package com.example.ilds.sale;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SaleApplication {
+public class IldsSaleApplication {
     public static void main(String[] args) {
-        SpringApplication.run(SaleApplication.class, args);
+        SpringApplication.run(IldsSaleApplication.class, args);
     }
 }

@@ -1,10 +1,10 @@
-package com.example.wms.base.controller;
+package com.example.ilds.base.controller;
 
-import com.example.wms.base.model.entity.Inventory;
-import com.example.wms.base.model.entity.InventoryRecord;
-import com.example.wms.base.model.vo.CommodityChartVo;
-import com.example.wms.base.service.InventoryRecordService;
-import com.example.wms.base.service.InventoryService;
+import com.example.ilds.base.model.vo.CommodityChartVo;
+import com.example.ilds.base.model.entity.Inventory;
+import com.example.ilds.base.model.entity.InventoryRecord;
+import com.example.ilds.base.service.InventoryRecordService;
+import com.example.ilds.base.service.InventoryService;
 import org.springframework.web.bind.annotation.*;
 
 import javax.annotation.Resource;

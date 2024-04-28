@@ -1,4 +1,4 @@
-package com.example.sale.handler;
+package com.example.ilds.sale.handler;
 
 import com.example.common.model.support.ResponseResult;
 import org.slf4j.Logger;

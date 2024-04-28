@@ -1,14 +1,127 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3477e3f1-1b22-4875-a79f-440beba72edf" name="更改" comment="" />
+    <list default="true" id="3477e3f1-1b22-4875-a79f-440beba72edf" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-api/ilds-api-base/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-api/ilds-api-base/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-api/ilds-api-base/src/main/java/com/example/ilds/api/base/feign/WarehouseFeignClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-api/ilds-api-base/src/main/java/com/example/ilds/api/base/feign/WarehouseFeignClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-api/ilds-api-base/src/main/java/com/example/ilds/api/base/vo/WarehouseVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-api/ilds-api-base/src/main/java/com/example/ilds/api/base/vo/WarehouseVO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-api/ilds-api-vehicle/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-api/ilds-api-vehicle/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-api/ilds-api-vehicle/src/main/java/com/example/ilds/api/vehicle/dto/DistributionDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-api/ilds-api-vehicle/src/main/java/com/example/ilds/api/vehicle/dto/DistributionDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-api/ilds-api-vehicle/src/main/java/com/example/ilds/api/vehicle/feign/DistributionFeignClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-api/ilds-api-vehicle/src/main/java/com/example/ilds/api/vehicle/feign/DistributionFeignClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-api/ilds-api-vehicle/src/main/java/com/example/ilds/api/vehicle/vo/VehicleVO.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-api/ilds-api-vehicle/src/main/java/com/example/ilds/api/vehicle/vo/VehicleVO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-api/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-api/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-base-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-base-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-base-service/src/main/java/com/example/ilds/base/IldsBaseApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-base-service/src/main/java/com/example/ilds/base/IldsBaseApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-base-service/src/main/java/com/example/ilds/base/controller/CommodityController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-base-service/src/main/java/com/example/ilds/base/controller/CommodityController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-base-service/src/main/java/com/example/ilds/base/controller/EmployeeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-base-service/src/main/java/com/example/ilds/base/controller/EmployeeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-base-service/src/main/java/com/example/ilds/base/controller/InventoryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-base-service/src/main/java/com/example/ilds/base/controller/InventoryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-base-service/src/main/java/com/example/ilds/base/controller/WarehouseController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-base-service/src/main/java/com/example/ilds/base/controller/WarehouseController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-base-service/src/main/java/com/example/ilds/base/feign/WarehouseFeignController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-base-service/src/main/java/com/example/ilds/base/feign/WarehouseFeignController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-base-service/src/main/java/com/example/ilds/base/handler/GlobalExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-base-service/src/main/java/com/example/ilds/base/handler/GlobalExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-base-service/src/main/java/com/example/ilds/base/handler/GlobalResponseHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-base-service/src/main/java/com/example/ilds/base/handler/GlobalResponseHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-base-service/src/main/java/com/example/ilds/base/model/entity/Commodity.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-base-service/src/main/java/com/example/ilds/base/model/entity/Commodity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-base-service/src/main/java/com/example/ilds/base/model/entity/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-base-service/src/main/java/com/example/ilds/base/model/entity/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-base-service/src/main/java/com/example/ilds/base/model/entity/Inventory.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-base-service/src/main/java/com/example/ilds/base/model/entity/Inventory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-base-service/src/main/java/com/example/ilds/base/model/entity/InventoryRecord.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-base-service/src/main/java/com/example/ilds/base/model/entity/InventoryRecord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-base-service/src/main/java/com/example/ilds/base/model/entity/Warehouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-base-service/src/main/java/com/example/ilds/base/model/entity/Warehouse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-base-service/src/main/java/com/example/ilds/base/model/vo/CommodityChartVo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-base-service/src/main/java/com/example/ilds/base/model/vo/CommodityChartVo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-base-service/src/main/java/com/example/ilds/base/repository/CommodityRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-base-service/src/main/java/com/example/ilds/base/repository/CommodityRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-base-service/src/main/java/com/example/ilds/base/repository/EmployeeRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-base-service/src/main/java/com/example/ilds/base/repository/EmployeeRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-base-service/src/main/java/com/example/ilds/base/repository/InventoryRecordRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-base-service/src/main/java/com/example/ilds/base/repository/InventoryRecordRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-base-service/src/main/java/com/example/ilds/base/repository/InventoryRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-base-service/src/main/java/com/example/ilds/base/repository/InventoryRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-base-service/src/main/java/com/example/ilds/base/repository/WareHouseRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-base-service/src/main/java/com/example/ilds/base/repository/WareHouseRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-base-service/src/main/java/com/example/ilds/base/security/JwtAuthorizationFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-base-service/src/main/java/com/example/ilds/base/security/JwtAuthorizationFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-base-service/src/main/java/com/example/ilds/base/security/SecurityConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-base-service/src/main/java/com/example/ilds/base/security/SecurityConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-base-service/src/main/java/com/example/ilds/base/service/CommodityService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-base-service/src/main/java/com/example/ilds/base/service/CommodityService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-base-service/src/main/java/com/example/ilds/base/service/EmployeeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-base-service/src/main/java/com/example/ilds/base/service/EmployeeService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-base-service/src/main/java/com/example/ilds/base/service/InventoryRecordService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-base-service/src/main/java/com/example/ilds/base/service/InventoryRecordService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-base-service/src/main/java/com/example/ilds/base/service/InventoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-base-service/src/main/java/com/example/ilds/base/service/InventoryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-base-service/src/main/java/com/example/ilds/base/service/WarehouseService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-base-service/src/main/java/com/example/ilds/base/service/WarehouseService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-base-service/src/main/java/com/example/ilds/base/service/impl/CommodityServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-base-service/src/main/java/com/example/ilds/base/service/impl/CommodityServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-base-service/src/main/java/com/example/ilds/base/service/impl/EmployeeServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-base-service/src/main/java/com/example/ilds/base/service/impl/EmployeeServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-base-service/src/main/java/com/example/ilds/base/service/impl/InventoryRecordServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-base-service/src/main/java/com/example/ilds/base/service/impl/InventoryRecordServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-base-service/src/main/java/com/example/ilds/base/service/impl/InventoryServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-base-service/src/main/java/com/example/ilds/base/service/impl/InventoryServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-base-service/src/main/java/com/example/ilds/base/service/impl/WarehouseServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-base-service/src/main/java/com/example/ilds/base/service/impl/WarehouseServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-common/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-common/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-sale-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-sale-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-sale-service/src/main/java/com/example/ilds/sale/IldsSaleApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-sale-service/src/main/java/com/example/ilds/sale/IldsSaleApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-sale-service/src/main/java/com/example/ilds/sale/controller/SaleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-sale-service/src/main/java/com/example/ilds/sale/controller/SaleController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-sale-service/src/main/java/com/example/ilds/sale/handler/GlobalExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-sale-service/src/main/java/com/example/ilds/sale/handler/GlobalExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-sale-service/src/main/java/com/example/ilds/sale/handler/GlobalResponseHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-sale-service/src/main/java/com/example/ilds/sale/handler/GlobalResponseHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-sale-service/src/main/java/com/example/ilds/sale/model/Sale.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-sale-service/src/main/java/com/example/ilds/sale/model/Sale.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-sale-service/src/main/java/com/example/ilds/sale/repository/SaleRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-sale-service/src/main/java/com/example/ilds/sale/repository/SaleRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-sale-service/src/main/java/com/example/ilds/sale/security/JwtAuthorizationFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-sale-service/src/main/java/com/example/ilds/sale/security/JwtAuthorizationFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-sale-service/src/main/java/com/example/ilds/sale/security/SecurityConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-sale-service/src/main/java/com/example/ilds/sale/security/SecurityConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-sale-service/src/main/java/com/example/ilds/sale/service/SaleService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-sale-service/src/main/java/com/example/ilds/sale/service/SaleService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-sale-service/src/main/java/com/example/ilds/sale/service/impl/SaleServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-sale-service/src/main/java/com/example/ilds/sale/service/impl/SaleServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-system-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-system-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-system-service/src/main/java/com/example/ilds/system/IldsSystemApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-system-service/src/main/java/com/example/ilds/system/IldsSystemApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-system-service/src/main/java/com/example/ilds/system/controller/AdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-system-service/src/main/java/com/example/ilds/system/controller/AdminController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-system-service/src/main/java/com/example/ilds/system/controller/EmailController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-system-service/src/main/java/com/example/ilds/system/controller/EmailController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-system-service/src/main/java/com/example/ilds/system/controller/LogController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-system-service/src/main/java/com/example/ilds/system/controller/LogController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-system-service/src/main/java/com/example/ilds/system/controller/RoleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-system-service/src/main/java/com/example/ilds/system/controller/RoleController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-system-service/src/main/java/com/example/ilds/system/handler/GlobalExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-system-service/src/main/java/com/example/ilds/system/handler/GlobalExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-system-service/src/main/java/com/example/ilds/system/handler/GlobalResponseHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-system-service/src/main/java/com/example/ilds/system/handler/GlobalResponseHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-system-service/src/main/java/com/example/ilds/system/model/dto/LoginDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-system-service/src/main/java/com/example/ilds/system/model/dto/LoginDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-system-service/src/main/java/com/example/ilds/system/model/entity/Admin.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-system-service/src/main/java/com/example/ilds/system/model/entity/Admin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-system-service/src/main/java/com/example/ilds/system/model/entity/Code.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-system-service/src/main/java/com/example/ilds/system/model/entity/Code.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-system-service/src/main/java/com/example/ilds/system/model/entity/LoginLog.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-system-service/src/main/java/com/example/ilds/system/model/entity/LoginLog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-system-service/src/main/java/com/example/ilds/system/model/entity/SystemLog.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-system-service/src/main/java/com/example/ilds/system/model/entity/SystemLog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-system-service/src/main/java/com/example/ilds/system/model/enums/Role.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-system-service/src/main/java/com/example/ilds/system/model/enums/Role.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-system-service/src/main/java/com/example/ilds/system/model/vo/SystemLogVo.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-system-service/src/main/java/com/example/ilds/system/model/vo/SystemLogVo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-system-service/src/main/java/com/example/ilds/system/repository/AdminRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-system-service/src/main/java/com/example/ilds/system/repository/AdminRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-system-service/src/main/java/com/example/ilds/system/repository/CodeRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-system-service/src/main/java/com/example/ilds/system/repository/CodeRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-system-service/src/main/java/com/example/ilds/system/repository/LoginLogRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-system-service/src/main/java/com/example/ilds/system/repository/LoginLogRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-system-service/src/main/java/com/example/ilds/system/repository/SystemLogRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-system-service/src/main/java/com/example/ilds/system/repository/SystemLogRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-system-service/src/main/java/com/example/ilds/system/security/JwtAuthorizationFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-system-service/src/main/java/com/example/ilds/system/security/JwtAuthorizationFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-system-service/src/main/java/com/example/ilds/system/security/SecurityConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-system-service/src/main/java/com/example/ilds/system/security/SecurityConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-system-service/src/main/java/com/example/ilds/system/service/AdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-system-service/src/main/java/com/example/ilds/system/service/AdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-system-service/src/main/java/com/example/ilds/system/service/EmailService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-system-service/src/main/java/com/example/ilds/system/service/EmailService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-system-service/src/main/java/com/example/ilds/system/service/LoginLogService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-system-service/src/main/java/com/example/ilds/system/service/LoginLogService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-system-service/src/main/java/com/example/ilds/system/service/SystemLogService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-system-service/src/main/java/com/example/ilds/system/service/SystemLogService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-system-service/src/main/java/com/example/ilds/system/service/impl/AdminServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-system-service/src/main/java/com/example/ilds/system/service/impl/AdminServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-system-service/src/main/java/com/example/ilds/system/service/impl/EmailServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-system-service/src/main/java/com/example/ilds/system/service/impl/EmailServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-system-service/src/main/java/com/example/ilds/system/service/impl/LoginLogServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-system-service/src/main/java/com/example/ilds/system/service/impl/LoginLogServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-system-service/src/main/java/com/example/ilds/system/service/impl/SystemLogServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-system-service/src/main/java/com/example/ilds/system/service/impl/SystemLogServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-system-service/src/main/java/com/example/ilds/system/util/BrowserUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-system-service/src/main/java/com/example/ilds/system/util/BrowserUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-system-service/src/main/java/com/example/ilds/system/util/IpUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-system-service/src/main/java/com/example/ilds/system/util/IpUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-system-service/src/main/java/com/example/ilds/system/util/JwtTokenUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-system-service/src/main/java/com/example/ilds/system/util/JwtTokenUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-system-service/src/main/java/com/example/ilds/system/util/RandomUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-system-service/src/main/java/com/example/ilds/system/util/RandomUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-system-service/src/main/java/com/example/ilds/system/util/ResponseUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-system-service/src/main/java/com/example/ilds/system/util/ResponseUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-vehicle-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-vehicle-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ilds-vehicle-service/src/main/java/com/example/ilds/vehicle/IldsVehicleApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/ilds-vehicle-service/src/main/java/com/example/ilds/vehicle/IldsVehicleApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/Desktop/apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
   </component>
   <component name="ProjectId" id="2fAyK5CQX6EJJCIx2afXRUBcQKg" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -18,11 +131,130 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "1.8",
+    "last_opened_file_path": "D:/project/wms-service/wms-service/wms-vehicle-service/src/main/java/com/example/wms/vehicle",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "spring.configuration.checksum": "ba69895e8e3136dbbab9db634caf3602"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\project\wms-service\wms-service\wms-vehicle-service\src\main\java\com\example\wms\vehicle" />
+      <recent name="D:\project\wms-service\wms-service\wms-sale-service\src\main\java\com\example\sale" />
+      <recent name="D:\project\wms-service\wms-service\wms-common\src\main\java\com\example\common" />
+      <recent name="D:\project\wms-service\wms-service\wms-base-service\src\main\java\com\example\wms\base" />
+      <recent name="D:\project\wms-service\wms-service\wms-system-service\src\main\java\com\example\system" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.common.model.enums.support" />
+      <recent name="com.example.system.util" />
+      <recent name="com.example.common.annotation" />
+      <recent name="com.example.system.aspect" />
+      <recent name="com.example.common.aspect" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+      <command value="mvn clean install" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.IldsVehicleApplication">
+    <configuration name="IldsBaseApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="ilds-base-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.wms.base.IldsBaseApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.wms.base.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IldsSystemApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="ilds-system-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.wms.system.IldsSystemApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.wms.system.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IldsVehicleApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="ilds-vehicle-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.ilds.vehicle.IldsVehicleApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.ilds.vehicle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SaleApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="ilds-sale-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.sale.SaleApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.sale.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WmsVehicleApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="ilds-vehicle-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.wms.vehicle.WmsVehicleApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.wms.vehicle.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.IldsVehicleApplication" />
+        <item itemvalue="Spring Boot.WmsVehicleApplication" />
+        <item itemvalue="Spring Boot.SaleApplication" />
+        <item itemvalue="Spring Boot.IldsBaseApplication" />
+        <item itemvalue="Spring Boot.IldsSystemApplication" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
@@ -31,7 +263,58 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1713258112072</updated>
+      <workItem from="1713258113834" duration="15700000" />
+      <workItem from="1713407319133" duration="3744000" />
+      <workItem from="1713418927668" duration="91000" />
+      <workItem from="1713419438746" duration="4343000" />
+      <workItem from="1713491966480" duration="2899000" />
+      <workItem from="1713593385542" duration="311000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ilds-system-service/src/main/java/com/example/ilds/system/handler/GlobalResponseHandler.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ilds-system-service/src/main/java/com/example/ilds/system/handler/GlobalResponseHandler.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ilds-system-service/src/main/java/com/example/ilds/system/controller/AdminController.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ilds-system-service/src/main/java/com/example/ilds/system/service/impl/AdminServiceImpl.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ilds-sale-service/src/main/java/com/example/ilds/sale/security/JwtAuthorizationFilter.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

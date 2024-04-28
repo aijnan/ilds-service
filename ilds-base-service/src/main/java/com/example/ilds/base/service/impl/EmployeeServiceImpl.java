@@ -1,8 +1,8 @@
-package com.example.wms.base.service.impl;
+package com.example.ilds.base.service.impl;
 
-import com.example.wms.base.model.entity.Employee;
-import com.example.wms.base.repository.EmployeeRepository;
-import com.example.wms.base.service.EmployeeService;
+import com.example.ilds.base.service.EmployeeService;
+import com.example.ilds.base.model.entity.Employee;
+import com.example.ilds.base.repository.EmployeeRepository;
 import com.example.common.util.DataTimeUtil;
 import org.springframework.stereotype.Service;
 

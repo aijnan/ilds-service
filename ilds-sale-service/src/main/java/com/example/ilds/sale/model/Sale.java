@@ -1,4 +1,4 @@
-package com.example.sale.model;
+package com.example.ilds.sale.model;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;

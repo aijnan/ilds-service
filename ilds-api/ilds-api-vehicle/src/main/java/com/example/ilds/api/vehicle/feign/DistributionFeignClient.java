@@ -1,12 +1,12 @@
-package com.example.wms.api.vehicle.feign;
+package com.example.ilds.api.vehicle.feign;
 
-import com.example.wms.api.vehicle.dto.DistributionDTO;
-import com.example.wms.api.vehicle.vo.VehicleVO;
+import com.example.ilds.api.vehicle.dto.DistributionDTO;
+import com.example.ilds.api.vehicle.vo.VehicleVO;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 
-@FeignClient(value = "wms-vehicle",contextId ="distribution")
+@FeignClient(value = "wms-vehicle",contextId ="distribution",url="http://127.0.0.1:8085")
 public interface DistributionFeignClient {
 
 	/**

@@ -1,7 +1,7 @@
-package com.example.wms.system.service;
+package com.example.ilds.system.service;
 
-import com.example.wms.system.model.entity.SystemLog;
-import com.example.wms.system.model.vo.SystemLogVo;
+import com.example.ilds.system.model.entity.SystemLog;
+import com.example.ilds.system.model.vo.SystemLogVo;
 
 import java.util.List;
 

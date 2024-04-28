@@ -1,4 +1,4 @@
-package com.example.wms.system.model.vo;
+package com.example.ilds.system.model.vo;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

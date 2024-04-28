@@ -1,7 +1,7 @@
-package com.example.wms.base.controller;
+package com.example.ilds.base.controller;
 
-import com.example.wms.base.model.entity.Employee;
-import com.example.wms.base.service.EmployeeService;
+import com.example.ilds.base.model.entity.Employee;
+import com.example.ilds.base.service.EmployeeService;
 import com.example.common.annotation.Log;
 import com.example.common.model.enums.BusincessType;
 import org.springframework.security.access.prepost.PreAuthorize;

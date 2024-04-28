@@ -1,10 +1,10 @@
-package com.example.wms.base.service.impl;
+package com.example.ilds.base.service.impl;
 
-import com.example.wms.base.model.entity.Inventory;
-import com.example.wms.base.model.entity.Warehouse;
-import com.example.wms.base.repository.InventoryRepository;
-import com.example.wms.base.repository.WareHouseRepository;
-import com.example.wms.base.service.InventoryService;
+import com.example.ilds.base.model.entity.Warehouse;
+import com.example.ilds.base.repository.InventoryRepository;
+import com.example.ilds.base.model.entity.Inventory;
+import com.example.ilds.base.repository.WareHouseRepository;
+import com.example.ilds.base.service.InventoryService;
 import org.springframework.stereotype.Service;
 
 import javax.annotation.Resource;

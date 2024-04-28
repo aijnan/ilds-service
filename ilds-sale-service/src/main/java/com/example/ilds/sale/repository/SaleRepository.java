@@ -1,6 +1,6 @@
-package com.example.sale.repository;
+package com.example.ilds.sale.repository;
 
-import com.example.sale.model.Sale;
+import com.example.ilds.sale.model.Sale;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
