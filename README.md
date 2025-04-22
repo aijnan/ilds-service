@@ -4,8 +4,6 @@
 
 `ilds-service` 是一个基于微服务架构的 WMS（仓库管理系统）示例项目。本项目旨在演示 WMS 应用微服务的拆分。
 
-该项目托管在 GitHub: [https://github.com/aijnan/ilds-service](https://github.com/aijnan/ilds-service)
-
 ## 技术栈
 
 *   **主要语言:** Java
